@@ -1,0 +1,1 @@
+The corrected CSS code removes the space between the numeric value and the unit:  ```css div { width: calc(100% - 10px); } ``` This ensures that the `calc()` function correctly parses and computes the element's width.
